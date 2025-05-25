@@ -63,4 +63,4 @@ In-depth exploration of COVID-19 cases, deaths, and vaccinations using publicly 
 - Data Cleaning & Preparation
 - Business Intelligence & Data Storytelling
 - RFM Segmentation
-- Analytical Thinking with SQ
+- Analytical Thinking with SQL
